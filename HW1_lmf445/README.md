@@ -57,6 +57,7 @@ https://github.com/fernandomelchor/gittest_sbg389
 https://github.com/fernandomelchor/PUI2016_lmf445
 
 ##8. Create a directory HW1_lmf445 inside PUI2016_lmf445
-paste link
+https://github.com/fernandomelchor/PUI2016_lmf445/tree/master/HW1_lmf445
 
 ##9. Create this README.MD file 
+Here I am.

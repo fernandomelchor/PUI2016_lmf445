@@ -15,6 +15,7 @@ https://github.com/fernandomelchor/gittest_lmf445/blob/master/myfirstfile.txt
 
 ##Fork
 ###For the fork excercise I cloned Sebastian's repo and sent him a Pull Request, even though he already had done it, but he was so kind to redo it to help me, Thnx Sebastian.
+###After that I was trying to test solving a merge with Enrique jsut for testing and it went wrong , I am working to solve that one.
 https://github.com/fernandomelchor/gittest_sbg389
 
 
@@ -41,16 +42,16 @@ https://github.com/fernandomelchor/gittest_sbg389
 
 ##bashrc in COMPUTE
 
-![Screenshot 1 Assignment 2:my .bashrc](mybashrc.png]
+![Screenshot 1 Assignment 2:my .bashrc](mybashrc.png)
 
 ##bashrc LOCAL
 
-![Screenshot 2 Assignment 2:my .localbashrc](mylocalbashrc.png]
+![Screenshot 2 Assignment 2:my .localbashrc](mylocalbashrc.png)
 
 
 ##6. Screenshot of alias use
 
-![Screenshot 3 Assignment 2:alias use](myalias.png]
+![Screenshot 3 Assignment 2:alias use](myalias.png)
 
 ##7. Create PUI2016_lmf445
 https://github.com/fernandomelchor/PUI2016_lmf445
