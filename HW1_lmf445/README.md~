@@ -21,33 +21,36 @@ https://github.com/fernandomelchor/gittest_sbg389
 # Assignment 2: Set up your environment
 
 ##1. Create PUI2016_lmf445 Directory
-[lmf445@compute PUI2016_lmf445]$ pwd
-/home/cusp/lmf445/PUI2016_lmf445
-[lmf445@compute PUI2016_lmf445]$
+     	    [lmf445@compute PUI2016_lmf445]$ pwd
+	    /home/cusp/lmf445/PUI2016_lmf445
+	    [lmf445@compute PUI2016_lmf445]$
 
 ##2. Create evironmental variable PUI2016 with the address of the directory that we just created
-[lmf445@compute PUI2016_lmf445]$ echo $PUI2016
-/home/cusp/lmf445/PUI2016_lmf445
-[lmf445@compute PUI2016_lmf445]$
+     	    [lmf445@compute PUI2016_lmf445]$ echo $PUI2016
+	    /home/cusp/lmf445/PUI2016_lmf445
+	    [lmf445@compute PUI2016_lmf445]$
 
 ##3. Create an alias with a cd comand anthe environmental variable PUI2016
-[lmf445@compute home]$ pwd
-/home
-[lmf445@compute home]$ pui2016
-[lmf445@compute PUI2016_lmf445]$ pwd
-/home/cusp/lmf445/PUI2016_lmf445 
+     	    [lmf445@compute home]$ pwd
+	    /home
+	    [lmf445@compute home]$ pui2016
+	    [lmf445@compute PUI2016_lmf445]$ pwd
+	    /home/cusp/lmf445/PUI2016_lmf445 
 
 ##4. Screenshot of my .bashrc
 
 ##bashrc in COMPUTE
+
 ![Screenshot 1 Assignment 2:my .bashrc](mybashrc.png]
 
 ##bashrc LOCAL
+
 ![Screenshot 2 Assignment 2:my .localbashrc](mylocalbashrc.png]
 
 
 ##6. Screenshot of alias use
-![Screenshot 2 Assignment 2:alias use](myalias.png]
+
+![Screenshot 3 Assignment 2:alias use](myalias.png]
 
 ##7. Create PUI2016_lmf445
 https://github.com/fernandomelchor/PUI2016_lmf445
