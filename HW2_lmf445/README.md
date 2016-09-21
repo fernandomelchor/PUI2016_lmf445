@@ -1,4 +1,4 @@
-###Decription of PUI2016 HW2
+###Description of PUI2016 HW2
 ## PUI 2016 HW 2  
 
 ##General idea and walk through by Sebastian Banos, Jonathan D. Geis and Sofiya Elyukin
