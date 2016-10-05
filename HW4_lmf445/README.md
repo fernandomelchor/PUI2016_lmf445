@@ -1,3 +1,8 @@
+
+
+##HW4_2
+
+This part of the homework was done with Adriano Yoshino 
 his is a template for the table. To see how it is written clock on the Raw link to see this README.md in its raw unrendered format.
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **|
